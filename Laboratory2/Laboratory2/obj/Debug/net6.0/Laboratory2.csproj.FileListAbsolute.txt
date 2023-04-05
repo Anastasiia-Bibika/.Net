@@ -1,0 +1,7 @@
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.csproj.AssemblyReference.cache
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.GeneratedMSBuildEditorConfig.editorconfig
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.AssemblyInfoInputs.cache
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.AssemblyInfo.cs
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.csproj.CoreCompileInputs.cache
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.MvcApplicationPartsAssemblyInfo.cs
+D:\antosyak(C#)\Laboratory2\Laboratory2\obj\Debug\net6.0\Laboratory2.MvcApplicationPartsAssemblyInfo.cache
